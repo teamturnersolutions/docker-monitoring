@@ -15,3 +15,4 @@ http://localhost:3000
 # configure grafana to use prometheus as data source 
 
 # Shout out NetworkNuts for the template
+# Link to the video https://youtu.be/Q_tmu5Wte9E?si=5KnU9E9lgTqh2yDb
