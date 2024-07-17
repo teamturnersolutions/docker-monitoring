@@ -1,5 +1,3 @@
-# Shout out NetworkNuts for the template
-
 # docker-monitoring
 monitoring docker containers using cadvisor, prometheus,redis and grafana
 # run - docker-compose up
@@ -16,3 +14,4 @@ Access grafana using
 http://localhost:3000
 # configure grafana to use prometheus as data source 
 
+# Shout out NetworkNuts for the template
