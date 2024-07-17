@@ -1,4 +1,4 @@
-# Shout out to network nuts for providing the template for me to run with
+# Shout out NetworkNuts for the template
 
 # docker-monitoring
 monitoring docker containers using cadvisor, prometheus,redis and grafana
