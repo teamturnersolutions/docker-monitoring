@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/67884533-8164-4b3e-89e9-c59045a8e497)
+
+
 # docker-monitoring
 monitoring docker containers using cadvisor, prometheus,redis and grafana
 # run - docker-compose up
