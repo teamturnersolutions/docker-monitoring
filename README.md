@@ -18,5 +18,11 @@ http://localhost:3000
 # configure grafana to use prometheus as data source 
 
 # Shout out NetworkNuts for the template
-## Link to the video:
+## Link to the Resources:
+
+## https://www.docker.com/
+## https://www.portainer.io/
+https://ibm.github.io/ibm-z-oss-hub/containers/cadvisor.html
+## https://prometheus.io/
+## https://grafana.com/
 ## https://youtu.be/Q_tmu5Wte9E?si=5KnU9E9lgTqh2yDb
